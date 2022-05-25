@@ -6,7 +6,6 @@ let earlyYears = 2;
 earlyYears *= 10.5;
 
 // subtração da variavel por -2.
-
 let laterYears = myAge - 2;
 
 // multipicação da variavel por 4.
