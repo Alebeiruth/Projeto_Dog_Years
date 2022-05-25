@@ -16,7 +16,6 @@ console.log(earlyYears)
 console.log(laterYears)
 
 // nova variavel idade de cachorro
-
 var myAgeInDogYears = earlyYears + laterYears
 
 // palavras em minusculo (toLowerCase)
